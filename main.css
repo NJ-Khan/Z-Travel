@@ -1875,3 +1875,32 @@ section {
 .footer strong{
   color: var(--color-default);
 }
+
+
+
+@media (max-width: 768px) {
+
+  #visa .card .card-body .card-text {
+    padding: 0px;
+    margin: 0px;
+    
+  }
+} 
+
+
+
+@media (max-width: 320px) {
+  #visa .card .card-body .card-title{
+    margin-top: -25px;
+    margin-bottom: -3px;
+  }
+  #visa .card .card-body .card-text {
+    padding: 0px;
+    margin-top: -15px;
+    text-align: center;
+    font-size: small;
+    
+  }
+} 
+
+
