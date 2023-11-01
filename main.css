@@ -879,41 +879,6 @@ section {
   }
 }
 
-/*--------------------------------------------------------------
-# Clients Section
---------------------------------------------------------------*/
-/* .clients {
-  padding: 40px 0;
-}
-
-.clients .swiper {
-  padding: 10px 10px;
-}
-
-.clients .swiper-slide img {
-  transition: 0.3s;
-}
-
-.clients .swiper-slide img:hover {
-  transform: scale(1.3);
-}
-
-.clients .swiper-pagination {
-  margin-top: 40px;
-  position: relative;
-}
-
-.clients .swiper-pagination .swiper-pagination-bullet {
-  width: 12px;
-  height: 12px;
-  background-color: #fff;
-  opacity: 1;
-  background-color: #ddd;
-}
-
-.clients .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: var(--color-primary);
-} */
 
 /*----------------------------------------------------------------------------------------------------------
 # Stats Counter Section
@@ -1312,6 +1277,45 @@ section {
   margin-bottom: 0;
   padding: 0 20px 20px 20px;
 }
+
+/*--------------------------------------------------------------
+# Clients Section
+--------------------------------------------------------------*/
+/* .trustedairline{
+  padding: 40px 0;
+}
+
+.trustedairline .swiper {
+  padding: 10px 10px;
+}
+
+.trustedairline .swiper-slide img {
+  transition: 0.3s;
+}
+
+.trustedairline .swiper-slide img:hover {
+  transform: scale(1.6);
+}
+
+.trustedairline .swiper-pagination {
+  margin-top: 40px;
+  position: relative;
+}
+
+.trustedairline .swiper-pagination .swiper-pagination-bullet {
+  width: 12px;
+  height: 12px;
+  background-color: #fff;
+  opacity: 1;
+  background-color: #ddd;
+}
+
+.trustedairline .swiper-pagination .swiper-pagination-bullet-active {
+  background-color: var(--color-primary);
+} */
+
+
+
 /*----------------------------------------------------------------------------------------------------
 # Consultancy Intro
 ------------------------------------------------------------------------------------------------------*/
